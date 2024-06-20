@@ -1,0 +1,1 @@
+Activity developed during my period as a trainee at Empresa de Informática Júnior da Bahia (Infojr - UFBA) with Prismic technology that allows the owner of the site to edit the production without knowing about programming and NextJs technology (a framework). The main programming language is TypeScript.
